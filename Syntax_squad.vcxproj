@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <ProjectGuid>{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}</ProjectGuid>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <Keyword>ManagedCProj</Keyword>
+    <RootNamespace>Syntaxsquad</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>main</EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>main</EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="ForgotPassword.cpp" />
+    <ClCompile Include="frmBuyElectricity.cpp" />
+    <ClCompile Include="frmCards.cpp" />
+    <ClCompile Include="frmCashSend.cpp" />
+    <ClCompile Include="frmDataAndAirTime.cpp" />
+    <ClCompile Include="frmDeposit.cpp" />
+    <ClCompile Include="frmMessage.cpp" />
+    <ClCompile Include="frmPayBeneficiary.cpp" />
+    <ClCompile Include="frmTransact.cpp" />
+    <ClCompile Include="frmWithdraw.cpp" />
+    <ClCompile Include="HomeSystem.cpp" />
+    <ClCompile Include="LoginMain.cpp" />
+    <ClCompile Include="Register2.cpp" />
+    <ClCompile Include="Register3.cpp" />
+    <ClCompile Include="Register4.cpp" />
+    <ClCompile Include="RegisterMain.cpp" />
+    <ClCompile Include="Syntax_Squad_Banking.cpp" />
+    <ClCompile Include="Syntax_Squad_Main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ForgotPassword.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmBuyElectricity.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmCards.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmCashSend.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmDataAndAirTime.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmDeposit.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmMessage.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmPayBeneficiary.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmTransact.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="frmWithdraw.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="HomeSystem.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="LoginMain.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Register2.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Register3.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Register4.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="RegisterMain.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Syntax_Squad_Banking.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ForgotPassword.resx">
+      <DependentUpon>ForgotPassword.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuyElectricity.resx">
+      <DependentUpon>frmBuyElectricity.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCards.resx">
+      <DependentUpon>frmCards.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCashSend.resx">
+      <DependentUpon>frmCashSend.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDataAndAirTime.resx">
+      <DependentUpon>frmDataAndAirTime.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeposit.resx">
+      <DependentUpon>frmDeposit.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMessage.resx">
+      <DependentUpon>frmMessage.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPayBeneficiary.resx">
+      <DependentUpon>frmPayBeneficiary.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTransact.resx">
+      <DependentUpon>frmTransact.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWithdraw.resx">
+      <DependentUpon>frmWithdraw.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeSystem.resx">
+      <DependentUpon>HomeSystem.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginMain.resx">
+      <DependentUpon>LoginMain.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register2.resx">
+      <DependentUpon>Register2.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register3.resx">
+      <DependentUpon>Register3.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register4.resx">
+      <DependentUpon>Register4.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterMain.resx">
+      <DependentUpon>RegisterMain.h</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

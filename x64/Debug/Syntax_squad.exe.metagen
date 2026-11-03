@@ -1,0 +1,101 @@
+  Syntaxsquad.ForgotPassword.resources - Embedded, ContainedInManifestFile, 
+  Syntaxsquad.frmBuyElectricity.resources - Embedded, ContainedInManifestFile, 
+  Syntaxsquad.frmCards.resources - Embedded, ContainedInManifestFile, 
+  Syntaxsquad.frmCashSend.resources - Embedded, ContainedInManifestFile, 
+  Syntaxsquad.frmDataAndAirTime.resources - Embedded, ContainedInManifestFile, 
+  Syntaxsquad.frmDeposit.resources - Embedded, ContainedInManifestFile, 
+  Syntaxsquad.frmMessage.resources - Embedded, ContainedInManifestFile, 
+  Syntaxsquad.frmPayBeneficiary.resources - Embedded, ContainedInManifestFile, 
+  Syntaxsquad.frmTransact.resources - Embedded, ContainedInManifestFile, 
+  Syntaxsquad.frmWithdraw.resources - Embedded, ContainedInManifestFile, 
+  Syntaxsquad.HomeSystem.resources - Embedded, ContainedInManifestFile, 
+  Syntaxsquad.LoginMain.resources - Embedded, ContainedInManifestFile, 
+  Syntaxsquad.Register2.resources - Embedded, ContainedInManifestFile, 
+  Syntaxsquad.Register3.resources - Embedded, ContainedInManifestFile, 
+  Syntaxsquad.Register4.resources - Embedded, ContainedInManifestFile, 
+  Syntaxsquad.RegisterMain.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Syntax_squad, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualBasic, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class Syntaxsquad.ForgotPassword: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Collections.Generic.List`1[Syntax_Squad_Banking]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Syntaxsquad.frmBuyElectricity: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Syntax_Squad_Banking): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Syntaxsquad.frmCards: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Syntax_Squad_Banking): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Syntaxsquad.frmMessage: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Syntax_Squad_Banking): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Collections.Generic.List`1[System.String] globalMessages : Public, Static
+  Methods:
+    AddGlobalMessage(String): PrivateScope, Public, Static, HideBySig
+    GetGlobalMessages(): PrivateScope, Public, Static, HideBySig
+    ClearGlobalMessages(): PrivateScope, Public, Static, HideBySig
+    AddMessage(String): PrivateScope, Public, HideBySig
+Class Syntaxsquad.frmCashSend: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Syntax_Squad_Banking): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Syntaxsquad.frmDataAndAirTime: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Syntax_Squad_Banking): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Syntaxsquad.frmDeposit: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Syntax_Squad_Banking): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Syntaxsquad.frmPayBeneficiary: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Syntaxsquad.frmWithdraw: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Syntax_Squad_Banking): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Syntaxsquad.frmTransact: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Syntax_Squad_Banking): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Syntaxsquad.HomeSystem: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Syntax_Squad_Banking): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Syntaxsquad.Register4: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Syntax_Squad_Banking): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Syntaxsquad.Register3: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Syntax_Squad_Banking): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Syntaxsquad.Register2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Syntax_Squad_Banking): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Syntaxsquad.RegisterMain: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Syntaxsquad.LoginMain: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

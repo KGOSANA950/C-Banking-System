@@ -1,0 +1,155 @@
+========================================
+        BANKING SYSTEM PROJECT
+========================================
+
+Project Name:
+Syntax Squad Banking System
+
+Programming Language:
+C++/CLI
+
+Development Environment:
+Microsoft Visual Studio
+
+========================================
+PROJECT DESCRIPTION
+========================================
+
+The Syntax Squad Banking System is a desktop banking 
+application developed using C++/CLI and Windows Forms. 
+The system is designed to simulate basic banking 
+operations while providing a user-friendly graphical 
+interface for users.
+
+The application allows users to register, log in, 
+manage their accounts, deposit money, buy airtime, 
+and transfer money to beneficiaries.
+
+========================================
+MAIN FEATURES
+========================================
+
+1. User Login
+----------------------------
+- Existing users can log into the system
+- Username and password authentication
+- Password hiding functionality
+- Forgot password option available
+
+2. User Registration
+----------------------------
+New users can create accounts by entering:
+- Name
+- Surname
+- Email Address
+- Username
+- Password
+- Account Number
+
+3. Home Page Dashboard
+----------------------------
+After successful login, users are redirected to 
+the homepage where they can access different 
+banking services.
+
+4. Deposit Money
+----------------------------
+- Users can deposit money into their account
+- Updated balance is displayed
+
+5. Buy Airtime
+----------------------------
+- Users can purchase airtime
+- Amount entered is deducted from account balance
+
+6. Beneficiary Payments
+----------------------------
+- Users can transfer money to beneficiaries
+- Transaction amount is validated before processing
+
+7. Forgot Password
+----------------------------
+- Allows users to recover or reset passwords
+
+========================================
+SYSTEM OBJECTIVES
+========================================
+
+- To create a secure banking simulation system
+- To practice GUI programming using C++/CLI
+- To improve understanding of event-driven programming
+- To manage user information and banking transactions
+- To provide a simple and easy-to-use banking interface
+
+========================================
+TECHNOLOGIES USED
+========================================
+
+- C++/CLI
+- Windows Forms
+- Microsoft Visual Studio
+- Object-Oriented Programming Concepts
+- SQL server for Data base
+
+========================================
+HOW TO RUN THE PROJECT
+========================================
+
+1. Open the project in Microsoft Visual Studio
+2. Build the solution
+3. Run the application
+4. Register a new account or login using existing details
+5. Access banking features from the homepage
+
+========================================
+PROJECT MODULES
+========================================
+
+- Login Form
+- Registration Form
+- Forgot Password Form
+- Home Page Form
+- Deposit Form
+- Airtime Purchase Form
+- Beneficiary Payment Form
+
+========================================
+ADDITIONAL FEATURES IMPLEMENTED
+========================================
+
+- Database integration for storing user information 
+  and account details
+
+- Transaction history to keep track of user banking 
+  activities and transactions
+
+- SMS/Email notification functionality for important 
+  banking updates and confirmations
+
+- Secure password encryption for improved account 
+  security and user protection
+
+- Online banking features allowing users to perform 
+  banking operations digitally
+
+- ATM simulation feature to imitate real ATM banking 
+  services and transactions
+
+
+========================================
+CONCLUSION
+========================================
+
+The Syntax Squad Banking System demonstrates the use 
+of C++/CLI in developing a functional desktop banking 
+application. The project combines user authentication, 
+account management, and banking transactions in a 
+simple and interactive environment.
+
+========================================
+DEVELOPED BY
+========================================
+
+Syntax Squad
+
+========================================

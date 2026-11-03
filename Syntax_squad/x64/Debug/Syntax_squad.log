@@ -1,0 +1,511 @@
+﻿  ForgotPassword.cpp
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\ForgotPassword.h(34,17): warning C4677: 'ForgotPassword': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'ForgotPassword.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+  HomeSystem.cpp
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmCards.h(31,11): warning C4677: 'frmCards': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'HomeSystem.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmMessage.h(84,13): warning C4677: 'frmMessage': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'HomeSystem.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDataAndAirTime.h(30,20): warning C4677: 'frmDataAndAirTime': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'HomeSystem.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmBuyElectricity.h(28,20): warning C4677: 'frmBuyElectricity': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'HomeSystem.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDeposit.h(28,13): warning C4677: 'frmDeposit': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'HomeSystem.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmWithdraw.h(30,14): warning C4677: 'frmWithdraw': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'HomeSystem.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmTransact.h(38,14): warning C4677: 'frmTransact': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'HomeSystem.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmCashSend.h(29,14): warning C4677: 'frmCashSend': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'HomeSystem.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\HomeSystem.h(38,13): warning C4677: 'HomeSystem': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'HomeSystem.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+  LoginMain.cpp
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmCards.h(31,11): warning C4677: 'frmCards': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'LoginMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmMessage.h(84,13): warning C4677: 'frmMessage': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'LoginMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDataAndAirTime.h(30,20): warning C4677: 'frmDataAndAirTime': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'LoginMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmBuyElectricity.h(28,20): warning C4677: 'frmBuyElectricity': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'LoginMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDeposit.h(28,13): warning C4677: 'frmDeposit': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'LoginMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmWithdraw.h(30,14): warning C4677: 'frmWithdraw': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'LoginMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmTransact.h(38,14): warning C4677: 'frmTransact': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'LoginMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmCashSend.h(29,14): warning C4677: 'frmCashSend': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'LoginMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\HomeSystem.h(38,13): warning C4677: 'HomeSystem': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'LoginMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Register4.h(30,12): warning C4677: 'Register4': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'LoginMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Register3.h(29,12): warning C4677: 'Register3': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'LoginMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Register2.h(28,12): warning C4677: 'Register2': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'LoginMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\ForgotPassword.h(34,17): warning C4677: 'ForgotPassword': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'LoginMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\LoginMain.h(557,39): warning C5307: 'System::String::String(wchar_t,int)': argument (1) converted from 'char' to 'wchar_t'. Missing 'L' encoding-prefix for character literal?
+  (compiling source file 'LoginMain.cpp')
+  
+  Register2.cpp
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmCards.h(31,11): warning C4677: 'frmCards': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register2.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmMessage.h(84,13): warning C4677: 'frmMessage': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register2.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDataAndAirTime.h(30,20): warning C4677: 'frmDataAndAirTime': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register2.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmBuyElectricity.h(28,20): warning C4677: 'frmBuyElectricity': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register2.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDeposit.h(28,13): warning C4677: 'frmDeposit': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register2.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmWithdraw.h(30,14): warning C4677: 'frmWithdraw': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register2.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmTransact.h(38,14): warning C4677: 'frmTransact': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register2.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmCashSend.h(29,14): warning C4677: 'frmCashSend': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register2.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\HomeSystem.h(38,13): warning C4677: 'HomeSystem': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register2.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Register4.h(30,12): warning C4677: 'Register4': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register2.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Register3.h(29,12): warning C4677: 'Register3': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register2.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Register2.h(28,12): warning C4677: 'Register2': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register2.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+  Register3.cpp
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmCards.h(31,11): warning C4677: 'frmCards': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register3.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmMessage.h(84,13): warning C4677: 'frmMessage': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register3.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDataAndAirTime.h(30,20): warning C4677: 'frmDataAndAirTime': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register3.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmBuyElectricity.h(28,20): warning C4677: 'frmBuyElectricity': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register3.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDeposit.h(28,13): warning C4677: 'frmDeposit': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register3.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmWithdraw.h(30,14): warning C4677: 'frmWithdraw': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register3.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmTransact.h(38,14): warning C4677: 'frmTransact': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register3.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmCashSend.h(29,14): warning C4677: 'frmCashSend': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register3.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\HomeSystem.h(38,13): warning C4677: 'HomeSystem': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register3.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Register4.h(30,12): warning C4677: 'Register4': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register3.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Register3.h(29,12): warning C4677: 'Register3': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register3.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+  Register4.cpp
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmCards.h(31,11): warning C4677: 'frmCards': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register4.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmMessage.h(84,13): warning C4677: 'frmMessage': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register4.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDataAndAirTime.h(30,20): warning C4677: 'frmDataAndAirTime': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register4.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmBuyElectricity.h(28,20): warning C4677: 'frmBuyElectricity': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register4.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDeposit.h(28,13): warning C4677: 'frmDeposit': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register4.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmWithdraw.h(30,14): warning C4677: 'frmWithdraw': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register4.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmTransact.h(38,14): warning C4677: 'frmTransact': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register4.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmCashSend.h(29,14): warning C4677: 'frmCashSend': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register4.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\HomeSystem.h(38,13): warning C4677: 'HomeSystem': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register4.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Register4.h(30,12): warning C4677: 'Register4': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Register4.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+  RegisterMain.cpp
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmCards.h(31,11): warning C4677: 'frmCards': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'RegisterMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmMessage.h(84,13): warning C4677: 'frmMessage': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'RegisterMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDataAndAirTime.h(30,20): warning C4677: 'frmDataAndAirTime': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'RegisterMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmBuyElectricity.h(28,20): warning C4677: 'frmBuyElectricity': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'RegisterMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDeposit.h(28,13): warning C4677: 'frmDeposit': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'RegisterMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmWithdraw.h(30,14): warning C4677: 'frmWithdraw': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'RegisterMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmTransact.h(38,14): warning C4677: 'frmTransact': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'RegisterMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmCashSend.h(29,14): warning C4677: 'frmCashSend': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'RegisterMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\HomeSystem.h(38,13): warning C4677: 'HomeSystem': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'RegisterMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Register4.h(30,12): warning C4677: 'Register4': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'RegisterMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Register3.h(29,12): warning C4677: 'Register3': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'RegisterMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Register2.h(28,12): warning C4677: 'Register2': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'RegisterMain.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+  Syntax_Squad_Banking.cpp
+  Syntax_Squad_Main.cpp
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmCards.h(31,11): warning C4677: 'frmCards': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Syntax_Squad_Main.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmMessage.h(84,13): warning C4677: 'frmMessage': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Syntax_Squad_Main.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDataAndAirTime.h(30,20): warning C4677: 'frmDataAndAirTime': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Syntax_Squad_Main.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmBuyElectricity.h(28,20): warning C4677: 'frmBuyElectricity': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Syntax_Squad_Main.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDeposit.h(28,13): warning C4677: 'frmDeposit': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Syntax_Squad_Main.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmWithdraw.h(30,14): warning C4677: 'frmWithdraw': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Syntax_Squad_Main.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmTransact.h(38,14): warning C4677: 'frmTransact': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Syntax_Squad_Main.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmCashSend.h(29,14): warning C4677: 'frmCashSend': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Syntax_Squad_Main.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\HomeSystem.h(38,13): warning C4677: 'HomeSystem': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Syntax_Squad_Main.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Register4.h(30,12): warning C4677: 'Register4': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Syntax_Squad_Main.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Register3.h(29,12): warning C4677: 'Register3': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Syntax_Squad_Main.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Register2.h(28,12): warning C4677: 'Register2': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Syntax_Squad_Main.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\ForgotPassword.h(34,17): warning C4677: 'ForgotPassword': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'Syntax_Squad_Main.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\LoginMain.h(557,39): warning C5307: 'System::String::String(wchar_t,int)': argument (1) converted from 'char' to 'wchar_t'. Missing 'L' encoding-prefix for character literal?
+  (compiling source file 'Syntax_Squad_Main.cpp')
+  
+  frmBuyElectricity.cpp
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmBuyElectricity.h(28,20): warning C4677: 'frmBuyElectricity': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'frmBuyElectricity.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+  frmCards.cpp
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmCards.h(31,11): warning C4677: 'frmCards': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'frmCards.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+  frmCashSend.cpp
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmMessage.h(84,13): warning C4677: 'frmMessage': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'frmCashSend.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmCashSend.h(29,14): warning C4677: 'frmCashSend': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'frmCashSend.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+  frmDataAndAirTime.cpp
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmMessage.h(84,13): warning C4677: 'frmMessage': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'frmDataAndAirTime.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDataAndAirTime.h(30,20): warning C4677: 'frmDataAndAirTime': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'frmDataAndAirTime.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+  frmDeposit.cpp
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDeposit.h(28,13): warning C4677: 'frmDeposit': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'frmDeposit.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+  frmMessage.cpp
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmMessage.h(84,13): warning C4677: 'frmMessage': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'frmMessage.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+  frmTransact.cpp
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmMessage.h(84,13): warning C4677: 'frmMessage': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'frmTransact.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDataAndAirTime.h(30,20): warning C4677: 'frmDataAndAirTime': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'frmTransact.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmBuyElectricity.h(28,20): warning C4677: 'frmBuyElectricity': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'frmTransact.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmDeposit.h(28,13): warning C4677: 'frmDeposit': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'frmTransact.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmWithdraw.h(30,14): warning C4677: 'frmWithdraw': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'frmTransact.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmTransact.h(38,14): warning C4677: 'frmTransact': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'frmTransact.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+  frmWithdraw.cpp
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmMessage.h(84,13): warning C4677: 'frmMessage': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'frmWithdraw.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\frmWithdraw.h(30,14): warning C4677: 'frmWithdraw': signature of non-private member contains assembly private type 'Syntax_Squad_Banking'
+  (compiling source file 'frmWithdraw.cpp')
+      C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\Syntax_Squad_Banking.h(4,11):
+      see declaration of 'Syntax_Squad_Banking'
+  
+  Generating Code...
+  ForgotPassword.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Syntax_squad.vcxproj -> C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Project\Pr1\Syntax_squad\x64\Debug\Syntax_squad.exe

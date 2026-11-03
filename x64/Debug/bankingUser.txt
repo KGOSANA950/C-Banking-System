@@ -1,0 +1,128 @@
+==================================================
+              BANKING USER DETAILS                
+==================================================
+PERSONAL INFORMATION: 01
+First Name:Ronney
+Middle Name:Motšhina
+Surname:Kgosana
+Gender:M
+ID Number:0003168818089
+Date of Birth:2000-03-16
+Marital Status:Married
+Race:Black
+Citizenship:RSA
+Home Language:Sepedi
+Phone Number:0791234567
+Email:ronney10111@gmail.com
+Address:Mahwelereng 10111 Mokopane Polokwane Limpopo 0626
+
+ACCOUNT INFORMATION:
+Account Number:680181
+Account Type:Current
+Balance:R1750,00
+Daily Limit:R10000,00
+
+LOGIN INFORMATION:
+Username:ronney10111
+Password:123456
+Role:Customer
+Account Status:Active
+
+Registration Date: 2026-05-12 13:03:41
+==================================================
+==================================================
+              BANKING USER DETAILS                
+==================================================
+PERSONAL INFORMATION: 01
+First Name:mathiane
+Middle Name:mokoki
+Surname:rosi
+Gender:70
+ID Number:0365214789256
+Date of Birth:2026-05-12
+Marital Status:Married
+Race:Black
+Citizenship:Rsa
+Home Language:Sepedi
+Phone Number:0723659845
+Email:koki@gmail.com
+Address:Mahwelereng 102365 Mokopane Polokwane Limpopo 0626
+
+ACCOUNT INFORMATION:
+Account Number:618111
+Account Type:Current
+Balance:R1000,00
+Daily Limit:R10000,00
+
+LOGIN INFORMATION:
+Username:user1
+Password:user123
+Role:Customer
+Account Status:Active
+
+Registration Date: 2026-05-13 21:59:26
+==================================================
+==================================================
+              BANKING USER DETAILS                
+==================================================
+PERSONAL INFORMATION: 01
+First Name:mokoko
+Middle Name:leina
+Surname:lebitla
+Gender:70
+ID Number:0236598741235
+Date of Birth:2026-05-13
+Marital Status:Divorced
+Race:Black
+Citizenship:RSA
+Home Language:sepedi
+Phone Number:0214563968
+Email:lebitla@gmail.com
+Address:mahwelereng 102365 mokopane Polkwane Limpopo 0236
+
+ACCOUNT INFORMATION:
+Account Number:119286
+Account Type:Current
+Balance:R1000,00
+Daily Limit:R10000,00
+
+LOGIN INFORMATION:
+Username:ronney10111
+Password:user123
+Role:Customer
+Account Status:Active
+
+Registration Date: 2026-05-13 22:26:45
+==================================================
+==================================================
+              BANKING USER DETAILS                
+==================================================
+PERSONAL INFORMATION: 01
+First Name:Bokang
+Middle Name:Maoto
+Surname:dion
+Gender:77
+ID Number:0101010101010
+Date of Birth:2026-08-21
+Marital Status:Single
+Race:Black
+Citizenship:South Africa
+Home Language:Sepedi
+Phone Number:0768907654
+Email:dionmaoto@gmail.com
+Address:12245 Zn2 Seshego Polokwane Limpopo 0742
+
+ACCOUNT INFORMATION:
+Account Number:112950
+Account Type:Current
+Balance:R0,00
+Daily Limit:R10000,00
+
+LOGIN INFORMATION:
+Username:dionmaoto
+Password:Beekay@2k07
+Role:Customer
+Account Status:Active
+
+Registration Date: 2026-08-21 02:50:08
+==================================================

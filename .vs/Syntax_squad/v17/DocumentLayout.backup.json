@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\Syntax_Squad_Banking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|solutionrelative:Syntax_Squad_Banking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\HomeSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|solutionrelative:HomeSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmBuyElectricity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|solutionrelative:frmBuyElectricity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\Syntax_Squad_Banking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|solutionrelative:Syntax_Squad_Banking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmCards.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|solutionrelative:frmCards.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmTransact.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|solutionrelative:frmTransact.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmCashSend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|solutionrelative:frmCashSend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmDeposit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|solutionrelative:frmDeposit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmWithdraw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|solutionrelative:frmWithdraw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmWithdraw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|solutionrelative:frmWithdraw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmDataAndAirTime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|solutionrelative:frmDataAndAirTime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmDeposit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|solutionrelative:frmDeposit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmMessage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|solutionrelative:frmMessage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmMessage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|solutionrelative:frmMessage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\RegisterMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|solutionrelative:RegisterMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\RegisterMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B5C32F34-AF15-5DA9-7AC8-0114B71B9A3A}|Syntax_squad.vcxproj|solutionrelative:RegisterMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 276,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 70,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterMain.h [Design]",
+              "DocumentMoniker": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\RegisterMain.h",
+              "RelativeDocumentMoniker": "RegisterMain.h",
+              "ToolTip": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\RegisterMain.h [Design]",
+              "RelativeToolTip": "RegisterMain.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T19:17:38.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterMain.h",
+              "DocumentMoniker": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\RegisterMain.h",
+              "RelativeDocumentMoniker": "RegisterMain.h",
+              "ToolTip": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\RegisterMain.h",
+              "RelativeToolTip": "RegisterMain.h",
+              "ViewState": "AgIAAEYBAAAAAAAAAAArwFQBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T19:17:58.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmMessage.h [Design]",
+              "DocumentMoniker": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmMessage.h",
+              "RelativeDocumentMoniker": "frmMessage.h",
+              "ToolTip": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmMessage.h [Design]",
+              "RelativeToolTip": "frmMessage.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T16:04:35.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmMessage.h",
+              "DocumentMoniker": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmMessage.h",
+              "RelativeDocumentMoniker": "frmMessage.h",
+              "ToolTip": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmMessage.h",
+              "RelativeToolTip": "frmMessage.h",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAjwH8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T16:06:16.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmDeposit.h [Design]",
+              "DocumentMoniker": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmDeposit.h",
+              "RelativeDocumentMoniker": "frmDeposit.h",
+              "ToolTip": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmDeposit.h [Design]",
+              "RelativeToolTip": "frmDeposit.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T14:16:04.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmDataAndAirTime.h",
+              "DocumentMoniker": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmDataAndAirTime.h",
+              "RelativeDocumentMoniker": "frmDataAndAirTime.h",
+              "ToolTip": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmDataAndAirTime.h",
+              "RelativeToolTip": "frmDataAndAirTime.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T13:04:03.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmWithdraw.h [Design]",
+              "DocumentMoniker": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmWithdraw.h",
+              "RelativeDocumentMoniker": "frmWithdraw.h",
+              "ToolTip": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmWithdraw.h [Design]",
+              "RelativeToolTip": "frmWithdraw.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T15:45:24.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmWithdraw.h",
+              "DocumentMoniker": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmWithdraw.h",
+              "RelativeDocumentMoniker": "frmWithdraw.h",
+              "ToolTip": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmWithdraw.h",
+              "RelativeToolTip": "frmWithdraw.h",
+              "ViewState": "AgIAAA0CAAAAAAAAAAAAABkCAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T00:04:49.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmDeposit.h",
+              "DocumentMoniker": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmDeposit.h",
+              "RelativeDocumentMoniker": "frmDeposit.h",
+              "ToolTip": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmDeposit.h",
+              "RelativeToolTip": "frmDeposit.h",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAIoBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-12T23:52:00.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmCashSend.h",
+              "DocumentMoniker": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmCashSend.h",
+              "RelativeDocumentMoniker": "frmCashSend.h",
+              "ToolTip": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmCashSend.h",
+              "RelativeToolTip": "frmCashSend.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-12T23:29:25.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmTransact.h",
+              "DocumentMoniker": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmTransact.h",
+              "RelativeDocumentMoniker": "frmTransact.h",
+              "ToolTip": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmTransact.h",
+              "RelativeToolTip": "frmTransact.h",
+              "ViewState": "AgIAAMQBAAAAAAAAAAAAANABAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-12T22:28:50.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCards.h",
+              "DocumentMoniker": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmCards.h",
+              "RelativeDocumentMoniker": "frmCards.h",
+              "ToolTip": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmCards.h",
+              "RelativeToolTip": "frmCards.h",
+              "ViewState": "AgIAADMBAAAAAAAAAAAkwEEBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-12T21:32:05.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Syntax_Squad_Banking.cpp",
+              "DocumentMoniker": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\Syntax_Squad_Banking.cpp",
+              "RelativeDocumentMoniker": "Syntax_Squad_Banking.cpp",
+              "ToolTip": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\Syntax_Squad_Banking.cpp",
+              "RelativeToolTip": "Syntax_Squad_Banking.cpp",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAjwNAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-12T10:21:40.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBuyElectricity.h",
+              "DocumentMoniker": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmBuyElectricity.h",
+              "RelativeDocumentMoniker": "frmBuyElectricity.h",
+              "ToolTip": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\frmBuyElectricity.h",
+              "RelativeToolTip": "frmBuyElectricity.h",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-12T09:37:35.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeSystem.h",
+              "DocumentMoniker": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\HomeSystem.h",
+              "RelativeDocumentMoniker": "HomeSystem.h",
+              "ToolTip": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\HomeSystem.h",
+              "RelativeToolTip": "HomeSystem.h",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAkwHcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-10T21:54:57.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Syntax_Squad_Banking.h",
+              "DocumentMoniker": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\Syntax_Squad_Banking.h",
+              "RelativeDocumentMoniker": "Syntax_Squad_Banking.h",
+              "ToolTip": "C:\\Users\\MOTSHINA\\Desktop\\PGM2116 2026\\Assignment\\Project\\Pr1\\Syntax_squad\\Syntax_Squad_Banking.h",
+              "RelativeToolTip": "Syntax_Squad_Banking.h",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-29T14:10:41.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
